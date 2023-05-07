@@ -2,7 +2,7 @@
 
 ## I'm David Sampson, a Full Stack Developer from Nigeria.
 
-<h4 > I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX using React.js along with Next.js in TypeScript.</h4>
+<h4 > I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX interface using React.js along with Next.js in TypeScript.</h4>
 
 <h4 align > I've worked professionally as a freelancer with different teams on the development of sites with traffic of over a million users and in my free time, I teach web development as a coding instructor at different Tech Hubs and also mentor newbies to become better developers. </h4>
 
