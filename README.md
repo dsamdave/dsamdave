@@ -2,7 +2,7 @@
 
 ## I'm David Sampson
 
-<h3 align="center">A Full Stack Developer from Nigeria. </h3>
+<h3 align="center">I'm David Sampson, a Full Stack Developer from Nigeria. </h3>
 
 <h4 align = "center" > I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX using React.js along with Next.js in TypeScript.</h4>
 
@@ -34,4 +34,10 @@
 <br/>
 <br/>
 
-### 🛠 My Tech Stack
+### 🛠 Topics I teach on include:
+
+#### 1. Fundamentals of Computer Programming, 
+#### 2. Learning MongoDB, ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+#### 3. Frontend Development using React, ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+#### 4. Software Testing for JavaScript Applications, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+#### 5. Mastering Node.js and Express. ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
