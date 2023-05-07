@@ -1,8 +1,6 @@
 # Hi there 👋
 
-## I'm David Sampson
-
-<h3 align="center">I'm David Sampson, a Full Stack Developer from Nigeria. </h3>
+## I'm David Sampson, a Full Stack Developer from Nigeria.
 
 <h4 align = "center" > I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX using React.js along with Next.js in TypeScript.</h4>
 
