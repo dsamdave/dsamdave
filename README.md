@@ -2,9 +2,11 @@
 
 ## I'm David Sampson
 
-<h3 align="center">Hi 👋, I'm &#60;Rahul Ali/&#62; , A &#60;code-passionate&#62;&#60;/code-passionate&#62; Full Stack developer from Bangladesh</h3>
+<h3 align="center">A Full Stack Developer from Nigeria. </h3>
 
-<h4 align = "center" >I am currently doing react.js.I Consider myself as a skilled JavaScript Developer.I like problems as they enable us to change our way of thinking.</h4>
+<h4 align = "center" > I am a Software Developer who loves participating from building the backend using a Node.js Express server to developing a great UI/UX using React.js along with Next.js in TypeScript.</h4>
+
+<h4 align = "center" > I've worked professionally as a freelancer with different teams on the development of sites with traffic of over a million users and in my free time, I teach web development as a coding instructor at different Tech Hubs and also mentor newbies to become better developers. </h4>
 
 ### 🛠 My Tech Stack
 
@@ -28,12 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  
 <br/>
 <br/>
 
-<a href="https://github.com/devat-youtuber/github-readme-activity-graph"><img alt="devat-youtuber's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devat-youtuber&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+### 🛠 My Tech Stack
